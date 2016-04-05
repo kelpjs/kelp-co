@@ -1,0 +1,29 @@
+{
+  "name": "kelp-co",
+  "version": "1.0.0",
+  "description": "wrap generator for kelp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/kelp-co.git"
+  },
+  "keywords": [
+    "kelp",
+    "generator"
+  ],
+  "author": "lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/kelp-co/issues"
+  },
+  "homepage": "https://github.com/song940/kelp-co#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  },
+  "devDependencies": {
+    "kelp": "^1.0.3"
+  }
+}
